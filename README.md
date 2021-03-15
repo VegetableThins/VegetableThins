@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VegetableThins
 - 👀 I’m interested in game development, web development and mobile development
-- 🌱 I’m currently learning Blender and Unity
+- 🌱 I’m currently learning React, Blender and Unity
 - 💞️ I’m looking to collaborate on games
 - 📫 Reach me at mcgi0145@gmail.com
 
