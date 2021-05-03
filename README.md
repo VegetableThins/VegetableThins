@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VegetableThins
+- 👋 Hi, I’m McKenzie!
 - 👀 I’m interested in game development, web development and mobile development
 - 🌱 I’m currently learning React, Blender and Unity
 - 💞️ I’m looking to collaborate on games
